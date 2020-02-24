@@ -17,3 +17,4 @@ The goals of this challenge are for you to:
 
 ## Challenge Summary
 
+challenge files can be found in the "Earthquake_Challenge" directory
